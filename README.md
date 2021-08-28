@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
+
 div{
    display:inline;
 }
 
-</style>
+
 <div>
   <a href="https://github.com/itsmariaclara12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmariaclara12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
