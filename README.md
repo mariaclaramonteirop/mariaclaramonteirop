@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <div >
   <a href="https://github.com/itsmariaclara12">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=itsmariaclara12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmariaclara12&layout=compact&langs_count=7&theme=dracula"/>[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsmariaclara12)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmariaclara12&layout=compact&langs_count=7&theme=dracula"/>
+   
+<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=itsmariaclara12&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
   
