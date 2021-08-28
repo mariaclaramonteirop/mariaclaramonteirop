@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Eu sou Maria Clara Monteiro!!✨
 
 <!--
 **itsmariaclara12/itsmariaclara12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+div{
+   display:inline;
+}
+
+</style>
 <div>
   <a href="https://github.com/itsmariaclara12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmariaclara12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -31,11 +37,11 @@ Here are some ideas to get you started:
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
-    ##
+  <br>
   
   <div> 
  
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/mariaclaramonteirop" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
  
