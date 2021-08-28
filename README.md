@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="
   
-  <img align="right" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/862098478259240991/880985880112816128/clara.gif"?width=100&height=100>
+  <img align="right" alt="Rafa-yoda" src="clara.gif"?width=100&height=100>
 </div>
   
   <br>
