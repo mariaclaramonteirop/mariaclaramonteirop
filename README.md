@@ -43,9 +43,9 @@ Here are some ideas to get you started:
   
   <div> 
  
-  <a align="center" href="https://instagram.com/mariaclaramonteirop" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a  href="https://instagram.com/mariaclaramonteirop" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
-  <p align="center"> Contador de visitas🕵🏽‍♀️</p>
+  <p align="center"> Total de visitas no Perfil 🕵🏽‍♀️</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/itsmariaclara12/count.svg" /></p>
   
