@@ -1,4 +1,6 @@
-### Olá, Eu sou Maria Clara Monteiro!!✨
+## Olá, Eu sou Maria Clara Monteiro!!✨
+
+Sou estudante de Sistemas de Informação e entusiasta do desenvolvimento de backend. Neste repositório, você encontrará uma variedade de projetos em diferentes linguagens de programação, incluindo PHP, JavaScript e Java.
 
 <!--
 **itsmariaclara12/itsmariaclara12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,23 +26,19 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula"/>
    
 </div>
+
   
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
   <img align="center" alt="Cpluplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Cpluplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Cpluplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   
-  <img align="right" alt="gif"  src="clara.gif" width="200" height="200">
+ <!-- <img align="right" alt="gif"  src="clara.gif" width="200" height="200">-->
 </div>
   
   <br>
