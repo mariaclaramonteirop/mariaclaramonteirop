@@ -1,6 +1,6 @@
 ## Olá, Eu sou Maria Clara Monteiro!!✨
 
-Sou estudante de Sistemas de Informação e entusiasta do desenvolvimento de backend. Neste repositório, você encontrará uma variedade de projetos em diferentes linguagens de programação, incluindo PHP, JavaScript e Java.
+Sou estudante de Sistemas de Informação e entusiasta do desenvolvimento de backend. Neste repositório, você encontrará uma variedade de projetos em diferentes linguagens de programação, incluindo PHP, JavaScript, Node.js e Java.
 
 <!--
 **itsmariaclara12/itsmariaclara12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
