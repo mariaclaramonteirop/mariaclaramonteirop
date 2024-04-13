@@ -1,56 +1,50 @@
 ## Olá, Eu sou Maria Clara Monteiro!!✨
 
-Sou estudante de Sistemas de Informação e entusiasta do desenvolvimento de backend. Neste repositório, você encontrará uma variedade de projetos em diferentes linguagens de programação, incluindo PHP, JavaScript, Node.js e Java.
+Sou estudante de Sistemas de Informação, QA Analyst e entusiasta do desenvolvimento de Back-End. Neste repositório, você encontrará uma variedade de projetos em diferentes linguagens de programação, incluindo PHP, JavaScript, Node.js e algumas anotações que desenvolvo durante meus estudos.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariaclaramonteirop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150em">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="150em">
+</div>
+
+### Linguagens e Ferramentas 🛠️
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL" height="50" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" width="50"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="50"/> 
+</div>
+
+## Sobre Mim
+
+- 👩‍💻 Gosto de resolver problemas e criar coisas novas.
+- 💻Técnica em Informática formada pelo CEFET-RJ.
+- 🎓 Estudante de Sistemas de Informação no CEFET-RJ.
+- 🌱 Atualmente aprendendo mais sobre Desenvolvimento Web e Testes de Software.
+- 💡 Sempre em busca de novos desafios e oportunidades de aprendizado .
+- 📫 Como me alcançar: [LinkedIn](https://www.linkedin.com/in/maria-clara-monteiro-b3067521b) | [Intagram](https://instagram.com/mariaclaramonteirop)
 
 <!--
-**itsmariaclara12/itsmariaclara12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projetos em Destaque
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 **[Projeto 1](link_do_projeto):** Breve descrição do projeto. \
+🌐 **[Projeto 2](link_do_outro_projeto):** Uma pequena sinopse do que foi feito.
 -->
 
-
-
-
-<div >
-  <a href="https://github.com/itsmariaclara12">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariaclaramonteirop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula"/>
-   
+## Vamos Conectar! 🚀
+<br>
+<div align="center"> 
+  <a  href="https://instagram.com/mariaclaramonteirop" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
+   <a  href="https://www.linkedin.com/in/maria-clara-monteiro-b3067521b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin"></a>
 </div>
-
-  
-<div style="display: inline_block">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
-  <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  <img align="center" alt="Cpluplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Cpluplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Cpluplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  
- <!-- <img align="right" alt="gif"  src="clara.gif" width="200" height="200">-->
-</div>
-  
-  <br>
-  
-  <div> 
- 
-  <a  href="https://instagram.com/mariaclaramonteirop" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <!--<a  href="https://instagram.com/mariaclaramonteirop" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>-->
-</div>
-
-  
-  
-  <p align="center"> Total de visitas no Perfil 🕵🏽‍♀️</p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/mariaclaramonteirop/count.svg" /></p>
-  
+<br>
+<br>
+<h2 align="center"> Total de visitas no Perfil 🕵🏽‍♀️</h2>
+<p align="center">   <img align="center" src="https://profile-counter.glitch.me/mariaclaramonteirop/count.svg" alt="Total de visitas"></p>
