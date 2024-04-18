@@ -29,7 +29,7 @@ Sou estudante de Sistemas de Informação, QA Analyst e entusiasta do desenvolvi
 - 🎓 Estudante de Sistemas de Informação no CEFET-RJ.
 - 🌱 Atualmente aprendendo mais sobre Desenvolvimento Web e Testes de Software.
 - 💡 Sempre em busca de novos desafios e oportunidades de aprendizado .
-- 📫 Como me alcançar: [LinkedIn](https://www.linkedin.com/in/maria-clara-monteiro-b3067521b) | [Intagram](https://instagram.com/mariaclaramonteirop)
+- 📫 Como me alcançar: [LinkedIn](https://www.linkedin.com/in/mariaclaramonteirop) | [Intagram](https://instagram.com/mariaclaramonteirop)
 
 <!--
 ### Projetos em Destaque
@@ -42,7 +42,7 @@ Sou estudante de Sistemas de Informação, QA Analyst e entusiasta do desenvolvi
 <br>
 <div align="center"> 
   <a  href="https://instagram.com/mariaclaramonteirop" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
-   <a  href="https://www.linkedin.com/in/maria-clara-monteiro-b3067521b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin"></a>
+   <a  href="https://www.linkedin.com/in/mariaclaramonteirop/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin"></a>
 </div>
 <br>
 <br>
