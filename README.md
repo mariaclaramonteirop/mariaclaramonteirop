@@ -7,6 +7,14 @@ Sou estudante de Sistemas de Informação, QA Analyst e entusiasta do desenvolvi
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="150em">
 </div>
+<br>
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&column=4&margin-w=15&margin-h=15" alt="mariaclaramonteirop" /></a> </p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mariaclaramonteirop&label=Profile%20views&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="mariaclaramonteirop" /> </p>
+<br>
+<br>
 
 ### Linguagens e Ferramentas 🛠️
 
@@ -29,7 +37,7 @@ Sou estudante de Sistemas de Informação, QA Analyst e entusiasta do desenvolvi
 - 🎓 Estudante de Sistemas de Informação no CEFET-RJ.
 - 🌱 Atualmente aprendendo mais sobre Desenvolvimento Web e Testes de Software.
 - 💡 Sempre em busca de novos desafios e oportunidades de aprendizado .
-- 📫 Como me alcançar: [LinkedIn](https://www.linkedin.com/in/mariaclaramonteirop) | [Intagram](https://instagram.com/mariaclaramonteirop)
+- 📫 Como me alcançar: [LinkedIn](https://www.linkedin.com/in/mariaclaramonteirop) | [Intagram](https://instagram.com/mariaclaramonteirop) | [Discord](https://discord.gg/mariaclaramonteiro#3271)
 
 <!--
 ### Projetos em Destaque
