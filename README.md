@@ -1,4 +1,4 @@
-## ✨ Olá! Eu sou Maria Clara Monteiro Pacheco ✨  
+## ✨ Olá! Eu sou Maria Clara Monteiro✨  
 
 🎓 **Estudante de Sistemas de Informação** no **CEFET-RJ**.
 💻 **Desenvolvedora Back-end**, com experiência em **Testes de Software**
