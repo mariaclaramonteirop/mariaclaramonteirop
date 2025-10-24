@@ -60,9 +60,3 @@
   <a href="https://www.linkedin.com/in/mariaclaramonteirop/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
 </div>  
 
----
-
-<h2 align="center"> Total de visitas no Perfil 🕵🏽‍♀️</h2>  
-<p align="center">  
-  <img align="center" src="https://profile-counter.glitch.me/mariaclaramonteirop/count.svg" alt="Total de visitas">  
-</p>  
