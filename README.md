@@ -49,9 +49,10 @@
 
 - **[Projeto 1](#):** Gerenciador de tarefas com integração de API e banco de dados.  
 - **[Projeto 2](#):** Aplicativo de previsão de gastos e gerenciamento financeiro (Swift + Node.js).  
-- **[Projeto 3](#):** Blog dinâmico utilizando PHP e MySQL.   -->
+- **[Projeto 3](#):** Blog dinâmico utilizando PHP e MySQL.   
 
 ---
+-->
 
 ## 🌐 Vamos Conectar!  
 
