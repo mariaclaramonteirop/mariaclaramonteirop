@@ -15,9 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="150em">  
 </div>  
 
-<p align="center">  
+<!--<p align="center">  
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&column=4&margin-w=15&margin-h=15" alt="Troféus do GitHub" /></a>  
-</p>  
+</p>-->  
 
 ---
 
