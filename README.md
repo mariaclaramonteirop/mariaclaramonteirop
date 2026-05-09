@@ -33,7 +33,7 @@
 ## 🏅 Badges  
 <p align="center">
   <img src="https://img.shields.io/badge/Back--end-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Testes-%20de%20Software-important?style=for-the-badge"/>
+  <!-- <img src="https://img.shields.io/badge/Testes-%20de%20Software-important?style=for-the-badge"/> -->
   <img src="https://img.shields.io/badge/CEFET--RJ-%23125D98?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </p>
 
