@@ -8,19 +8,18 @@
 💻 **Desenvolvedora Back-end**, com experiência em **Testes de Software**  
 🌱 **Exploradora de novas tecnologias**, sempre em busca de aprendizado constante e desafios instigantes.  
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
 </div>
 
 <div align="center">
-  <!-- GitHub Stats -->
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariaclaramonteirop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
-</div>
+</div> -->
 
 ## 🛠️ Linguagens e Ferramentas
 
