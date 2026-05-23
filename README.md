@@ -22,10 +22,12 @@
 <br>
 <br>
 <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=buefy-dark"/>
-<img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&margin-w=8"/>
-
+<br>
+<br>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&column=4&margin-w=15&margin-h=15" alt="mariaclaramonteirop" />
 
 </div>
+
 
 <div align="center">
   <br>
