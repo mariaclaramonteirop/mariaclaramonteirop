@@ -8,18 +8,30 @@
 💻 **Desenvolvedora Back-end**, com experiência em **Testes de Software**  
 🌱 **Exploradora de novas tecnologias**, sempre em busca de aprendizado constante e desafios instigantes.  
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mariaclaramonteirop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas"/>
+</div> -->
+
+
+<div align="center">
+<br>
+<br>
+<img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=buefy-dark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&margin-w=8"/>
+
+
 </div>
 
 <div align="center">
+  <br>
+  <br>
   <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
-</div> -->
+</div> 
 
 ## 🛠️ Linguagens e Ferramentas
 
@@ -55,7 +67,7 @@
 - 🎓 Formada como Técnica em Informática pelo CEFET-RJ, atualmente cursando Sistemas de Informação na mesma instituição.
 - 🌱 Estou sempre explorando e me aprofundando em áreas como Desenvolvimento Web e Testes de Software, unindo aprendizado prático e teórico.
 - 💡 Movida pela curiosidade e por novos desafios, acredito que cada projeto é uma oportunidade de crescimento.  
-- 📫 Como me alcançar: [LinkedIn](https://www.linkedin.com/in/mariaclaramonteirop) | [Instagram](https://instagram.com/mariaclaramonteirop) | Discord: mariaclaramonteiro#3271  
+- 📫 Como me alcançar: [LinkedIn](https://www.linkedin.com/in/mariaclaramonteirop) | [Instagram](https://instagram.com/mariaclaramonteirop) | Discord: mariaclaramonteiro#3271
 
 ---
 
@@ -83,3 +95,5 @@
   <a href="https://instagram.com/mariaclaramonteirop" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.linkedin.com/in/mariaclaramonteirop/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mariaclaramonteirop&color=ff69b4"/></p>
