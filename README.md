@@ -24,7 +24,7 @@
 <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=buefy-dark"/>
 <br>
 <br>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&column=4&margin-w=15&margin-h=15" alt="mariaclaramonteirop" />
+<img href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&column=9margin-w=15&margin-h=15" alt="mariaclaramonteirop" />
 
 </div>
 
@@ -32,7 +32,20 @@
 <div align="center">
   <br>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient" />
+  <br>
+  <br>
+  <h2>GitHub Analytics </h2>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaclaramonteirop&theme=aura" width="80%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariaclaramonteirop&theme=aura" width="40%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariaclaramonteirop&theme=aura" width="40%"/>
+</div> 
+
+<div align="center">
+  <br>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient" />
 </div> 
 
 ## 🛠️ Linguagens e Ferramentas
