@@ -24,7 +24,8 @@
 <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=buefy-dark"/>
 <br>
 <br>
-<img href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&column=9margin-w=15&margin-h=15" alt="mariaclaramonteirop" />
+  
+<img href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&column=9margin-w=15&margin-h=15" alt="mariaclaramonteirop"/>
 
 </div>
 
