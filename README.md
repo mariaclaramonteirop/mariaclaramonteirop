@@ -25,7 +25,9 @@
 <br>
 <br>
   
-<img href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&column=9margin-w=15&margin-h=15" alt="mariaclaramonteirop"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&column=9&margin-w=15&margin-h=15" alt="mariaclaramonteirop"/>
+</a>
 
 </div>
 
