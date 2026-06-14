@@ -111,7 +111,8 @@
 
 <p align="center">
   <a href="https://instagram.com/mariaclaramonteirop" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/mariaclaramonteirop/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://gitlab.com/users/mariaclaramonteirop/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mariaclaramonteirop/" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-ff5000?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mariaclaramonteirop&color=ff69b4"/></p>
