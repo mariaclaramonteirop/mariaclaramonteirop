@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=false&textBg=false&fontSize=52&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&textBg=false&fontSize=52&animation=fadeIn"/>
 </div>
 
 <h1 align="center">✨ Olá! Eu sou Maria Clara Monteiro ✨</h1>
