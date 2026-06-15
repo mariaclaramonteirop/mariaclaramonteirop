@@ -26,7 +26,7 @@
 <br>
   
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&column=9&margin-w=15&margin-h=15" alt="mariaclaramonteirop"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical" width="100%" />
 </a>
 
 </div>
@@ -86,6 +86,25 @@
 - 🌱 Estou sempre explorando e me aprofundando em áreas como Desenvolvimento Web e Testes de Software, unindo aprendizado prático e teórico.
 - 💡 Movida pela curiosidade e por novos desafios, acredito que cada projeto é uma oportunidade de crescimento.  
 - 📫 Como me alcançar: [LinkedIn](https://www.linkedin.com/in/mariaclaramonteirop) | [Instagram](https://instagram.com/mariaclaramonteirop) | Discord: mariaclaramonteiro#3271
+
+### 💡 Áreas de interesse
+- Desenvolvimento Back-end
+- APIs REST
+- Banco de Dados
+- Testes de Software
+- Arquitetura de Software
+- DevOps e Cloud
+- Automação de Testes
+- Boas práticas de desenvolvimento
+  
+### 📌 Atualmente estudando
+- Arquitetura de Software
+- DevOps e CI/CD
+- Docker
+- GitHub Actions
+- Cloud Computing
+- Boas práticas para APIs
+- Testes automatizados
 
 ---
 
