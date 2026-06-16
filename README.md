@@ -26,11 +26,11 @@
 
 ## 📝 Sobre mim
 
-🎓 Estudante de **Sistemas de Informação** no **CEFET-RJ**.
-💻 Desenvolvedora **Back-end**, com experiência também em **Testes de Software**.
-🧪 Tenho vivência com testes funcionais, automação, APIs, banco de dados e desenvolvimento web.
-🌱 Estou sempre explorando novas tecnologias, arquitetura de software, boas práticas e desafios que me façam crescer como desenvolvedora.
-🚀 Gosto de transformar ideias em soluções reais, unindo curiosidade, organização e vontade de aprender.
+- 🎓 Estudante de **Sistemas de Informação** no **CEFET-RJ**.
+- 💻 Desenvolvedora **Back-end**, com experiência também em **Testes de Software**.
+- 🧪 Tenho vivência com testes funcionais, automação, APIs, banco de dados e desenvolvimento web.
+- 🌱 Estou sempre explorando novas tecnologias, arquitetura de software, boas práticas e desafios que me façam crescer como desenvolvedora.
+- 🚀 Gosto de transformar ideias em soluções reais, unindo curiosidade, organização e vontade de aprender.
 
 ---
 
