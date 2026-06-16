@@ -96,11 +96,11 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&column=9&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
   </a>
-</div>
+</div> -->
 
 <br>
 
