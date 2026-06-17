@@ -7,6 +7,13 @@
 <p align="center">
   Desenvolvedora Back-end • Estudante de Sistemas de Informação • Exploradora de tecnologia
 </p>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;PHP+%7C+JavaScript+%7C+MySQL+%7C+AWS;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o" 
+    alt="Typing SVG" 
+  />
+</div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mariaclaramonteirop/">
