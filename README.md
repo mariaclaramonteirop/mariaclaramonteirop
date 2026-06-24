@@ -97,6 +97,10 @@
 
 ## 📊 GitHub Analytics
 
+<!-- <div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=mariaclaramonteirop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150em">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="150em">  
+</div>   -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=buefy-dark"/>
 </div>
