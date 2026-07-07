@@ -102,7 +102,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="150em">  
 </div>   -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=buefy-dark"/>
+  <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br>
