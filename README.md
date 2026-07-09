@@ -121,6 +121,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariaclaramonteirop&theme=radical" width="40%"/>
 </div>
 
+<br>
+<br>
+
+
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=mariaclaramonteirop&rank_icon=github&include_all_commits=true&theme=radical" alt="GitHub Streak" />
 </div>
