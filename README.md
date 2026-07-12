@@ -127,7 +127,10 @@
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=mariaclaramonteirop&rank_icon=github&include_all_commits=true&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mariaclaramonteirop&layout=compact&langs_count=8&theme=radical" alt="GitHub Streak" />
 </div>
+<div align="center">
+  
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=dracula" alt="GitHub Streak" />
 </div> -->
