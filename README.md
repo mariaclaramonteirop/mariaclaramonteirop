@@ -70,7 +70,6 @@
 - Desenvolvimento Back-end
 - APIs REST
 - Banco de Dados
-- Testes de Software
 - Arquitetura de Software
 - DevOps e Cloud
 - Automação de Testes
@@ -87,7 +86,6 @@
 - GitHub Actions
 - Cloud Computing
 - Boas práticas para APIs
-- Testes automatizados
 
 </td>
   </tr>
