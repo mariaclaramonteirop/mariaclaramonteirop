@@ -114,7 +114,7 @@
 <br>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaclaramonteirop&theme=radical" width="80%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaclaramonteirop&theme=aura" width="80%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariaclaramonteirop&theme=radical" width="40%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariaclaramonteirop&theme=radical" width="40%"/>
 </div>
