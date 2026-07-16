@@ -100,7 +100,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="150em">  
 </div>   -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=radical&hide_border=true&border_radius=5&locale=pt_BR" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=radical&hide_border=true&border_radius=5&locale=pt_BR" alt="GitHub Streak" width="80%"/>
 </div>
 
 <br>
@@ -114,7 +114,7 @@
 <br>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaclaramonteirop&theme=radical" width="80%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaclaramonteirop&theme=radical" width="80%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariaclaramonteirop&theme=radical" width="40%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariaclaramonteirop&theme=radical" width="40%"/>
 </div>
