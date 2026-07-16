@@ -100,7 +100,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="150em">  
 </div>   -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=radical&hide_border=true&border_radius=5&locale=pt_BR" alt="GitHub Streak" width="80%"/>
+  <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=radical&hide_border=true&border_radius=5&locale=pt_BR" alt="GitHub Streak" width="60%"/>
 </div>
 
 <br>
