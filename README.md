@@ -158,14 +158,18 @@ Backend Developer
 ## 🌐 Vamos conectar?
 
 <p align="center">
-  <a href="https://instagram.com/mariaclara.code" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+ 
+
+  <a href="https://instagram.com/mariaclara.code">
+    <img src="https://img.shields.io/badge/Instagram-141321?style=for-the-badge&logo=instagram&logoColor=FE428E"/>
   </a>
-  <a href="https://www.linkedin.com/in/mariaclaramonteirop/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+   <a href="https://www.linkedin.com/in/mariaclaramonteirop/">
+    <img src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=FE428E"/>
   </a>
-  <a href="https://gitlab.com/users/mariaclaramonteirop/" target="_blank">
-    <img src="https://img.shields.io/badge/-GitLab-ff5000?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+
+  <a href="https://gitlab.com/users/mariaclaramonteirop/">
+    <img src="https://img.shields.io/badge/GitLab-141321?style=for-the-badge&logo=gitlab&logoColor=FE428E"/>
   </a>
 </p>
 
