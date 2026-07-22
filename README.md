@@ -173,9 +173,13 @@ Backend Developer
   </a>
 </p>
 
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mariaclaramonteirop&color=ff69b4"/>
 </p>
+
+
 
 <div align="center">
   <!-- <picture>
@@ -198,6 +202,7 @@ Backend Developer
       src="https://raw.githubusercontent.com/mariaclaramonteirop/mariaclaramonteirop/output/github-contribution-grid-snake.svg"
     />
   </picture>
+  
 </div>
 
 <div align="center">
