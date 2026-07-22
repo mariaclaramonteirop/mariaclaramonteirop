@@ -31,6 +31,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
 </div>
 
+
+
 ## 📝 Sobre mim
 
 - 🎓 Estudante de **Sistemas de Informação** no **CEFET-RJ**.
@@ -177,6 +179,11 @@
       src="https://raw.githubusercontent.com/mariaclaramonteirop/mariaclaramonteirop/output/github-contribution-grid-snake.svg"
     />
   </picture>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariaclaramonteirop/mariaclaramonteirop/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariaclaramonteirop/mariaclaramonteirop/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mariaclaramonteirop/mariaclaramonteirop/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 <div align="center">
