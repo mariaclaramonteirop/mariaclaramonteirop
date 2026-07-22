@@ -4,28 +4,15 @@
 
 <h1 align="center">✨ Olá! Eu sou Maria Clara Monteiro ✨</h1>
 
-<p align="center">
-  Desenvolvedora Back-end • Estudante de Sistemas de Informação • Exploradora de tecnologia
-</p>
+
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;PHP+%7C+JavaScript+%7C+MySQL+%7C+AWS;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&color=FE428E&lines=Backend+Developer;PHP+%7C+JavaScript+%7C+MySQL+%7C+AWS;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o" 
     alt="Typing SVG" 
   />
 </div>
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mariaclaramonteirop/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mariaclara.code">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://gitlab.com/users/mariaclaramonteirop/">
-    <img src="https://img.shields.io/badge/GitLab-ff5000?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  </a>
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient"/>
@@ -33,14 +20,41 @@
 
 
 
-## 📝 Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação** no **CEFET-RJ**.
-- 💻 Desenvolvedora **Back-end**, com experiência também em **Qualidade de Software**.
-- 🧪 Tenho vivência com testes funcionais, automação, APIs, banco de dados e desenvolvimento web.
-- 🌱 Estou sempre explorando novas tecnologias, arquitetura de software, boas práticas e desafios que me façam crescer como desenvolvedora.
-- 🚀 Gosto de transformar ideias em soluções reais, unindo curiosidade, organização e vontade de aprender.
 
+
+## 👋 Sobre mim
+
+Sou **Maria Clara Monteiro**, desenvolvedora **Back-end** apaixonada por criar soluções confiáveis, APIs e ferramentas que simplifiquem o dia a dia de outros desenvolvedores.
+
+- 💻 Atualmente atuo como **Backend Developer**, com foco em **PHP, JavaScript, MySQL, AWS, Docker e APIs REST**.
+- 🧪 Minha experiência em **Qualidade de Software** me proporcionou uma base sólida em testes, automação, confiabilidade e qualidade de aplicações.
+- 🎓 Técnica em Informática pelo **CEFET-RJ**.
+- 🎓 Graduanda em **Sistemas de Informação** pelo **CEFET-RJ**.
+<!-- - 🚀 Tenho grande interesse em **Arquitetura de Software**, **Cloud Computing**, **DevOps** e desenvolvimento de sistemas escaláveis.
+- 🌱 Estou sempre buscando aprender novas tecnologias e transformar conhecimento em projetos práticos e Open Source. -->
+
+## 🌎 About Me
+
+I'm **Maria Clara Monteiro**, a **Backend Developer** passionate about building reliable software, APIs and tools that simplify developers' daily work.
+
+- 💻 I currently work as a **Backend Developer**, focusing on **PHP, MySQL, AWS, Docker and REST APIs**.
+- 🧪 My background in **Software Quality Assurance** has given me a solid foundation in testing, automation, software reliability and application quality.
+- 🎓 Technical Diploma in Information Technology from **CEFET-RJ**.
+- 🎓 Bachelor's student in **Information Systems** at **CEFET-RJ**.
+
+## 🛤️ Career Journey
+
+```text
+Backend Developer
+2020 ─────────── 2022
+          ↓
+QA Analyst
+2022 ─────────── 2024
+          ↓
+Backend Developer
+2024 ─────────── Today
+```
 ---
 
 ## 🛠️ Linguagens e Ferramentas
@@ -95,6 +109,13 @@
 
 ---
 
+## 💭 Developer Quote
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <!-- <div align="center">  
@@ -102,7 +123,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="150em">  
 </div>   -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=radical&hide_border=true&border_radius=5&locale=pt_BR" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" width="60%"/>
 </div>
 
 <br>
@@ -119,37 +140,25 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaclaramonteirop&theme=radical" width="80%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariaclaramonteirop&theme=radical" width="40%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariaclaramonteirop&theme=radical" width="40%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=mariaclaramonteirop&rank_icon&include_all_commits=true&theme=radical" alt="GitHub Streak" />
 </div>
 
-<br>
-<br>
 
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mariaclaramonteirop&rank_icon=github&include_all_commits=true&theme=radical" alt="GitHub Streak" />
-  <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mariaclaramonteirop&layout=compact&langs_count=8&theme=radical" alt="GitHub Streak" /> -->
-</div>
+
 <div align="center">
   
 <!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=dracula" alt="GitHub Streak" />
 </div> -->
 
----
-
-## 💬 Curiosidades
-
-* ☕ Café e tecnologia sempre combinam comigo
-* 🎵 Gosto de programar ouvindo música
-* 🌎 Tenho o sonho de trabalhar com tecnologia pelo mundo
-* 🚀 Gosto de desafios, hackathons e projetos que me tiram da zona de conforto
 
 ---
 
 ## 🌐 Vamos conectar?
 
 <p align="center">
-  <a href="https://instagram.com/mariaclaramonteirop" target="_blank">
+  <a href="https://instagram.com/mariaclara.code" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/mariaclaramonteirop/" target="_blank">
