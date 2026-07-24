@@ -126,21 +126,17 @@ Backend Developer
   <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" width="60%"/>
 </div>
 
-<br>
-
 <!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mariaclaramonteirop&theme=radical&column=9&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
   </a>
 </div> -->
 
-<br>
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariaclaramonteirop&theme=radical" width="80%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariaclaramonteirop&theme=radical" width="40%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mariaclaramonteirop&theme=radical" width="40%"/>
-  <img src="https://github-stats-extended.vercel.app/api?username=mariaclaramonteirop&rank_icon&include_all_commits=true&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mariaclaramonteirop&hide_border=true&rank_icon&include_all_commits=true&theme=radical" alt="GitHub Streak" />
 </div>
 
 
