@@ -123,7 +123,7 @@ Backend Developer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaramonteirop&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" height="150em">  
 </div>   -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=mariaclaramonteirop&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="60%"/>
 </div>
 
 <!-- <div align="center">
