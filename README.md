@@ -38,7 +38,7 @@ Sou **Maria Clara Monteiro**, desenvolvedora **Back-end** apaixonada por criar s
 
 I'm **Maria Clara Monteiro**, a **Backend Developer** passionate about building reliable software, APIs and tools that simplify developers' daily work.
 
-- 💻 I currently work as a **Backend Developer**, focusing on **PHP, MySQL, AWS, Docker and REST APIs**.
+- 💻 I currently work as a **Backend Developer**, focusing on **PHP, MySQL, AWS, cloud architectures, Docker and REST APIs**.
 - 🧪 My background in **Software Quality Assurance** has given me a solid foundation in testing, automation, software reliability and application quality.
 - 🎓 Technical Diploma in Information Technology from **CEFET-RJ**.
 - 🎓 Bachelor's student in **Information Systems** at **CEFET-RJ**.
