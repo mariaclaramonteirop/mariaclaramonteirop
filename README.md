@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&textBg=false&fontSize=52&animation=fadeIn"/>
 </div>
-
+<!--
 <h1 align="center">✨ Olá! Eu sou Maria Clara Monteiro ✨</h1>
 
 
@@ -30,7 +30,7 @@ Sou **Maria Clara Monteiro**, desenvolvedora **Back-end** apaixonada por criar s
 - 💻 Atualmente atuo como **Backend Developer**, com foco em **PHP, JavaScript, MySQL, AWS, Docker e APIs REST**.
 - 🧪 Minha experiência em **Qualidade de Software** me proporcionou uma base sólida em testes, automação, confiabilidade e qualidade de aplicações.
 - 🎓 Técnica em Informática pelo **CEFET-RJ**.
-- 🎓 Graduanda em **Sistemas de Informação** pelo **CEFET-RJ**.
+- 🎓 Graduanda em **Sistemas de Informação** pelo **CEFET-RJ**.-->
 <!-- - 🚀 Tenho grande interesse em **Arquitetura de Software**, **Cloud Computing**, **DevOps** e desenvolvimento de sistemas escaláveis.
 - 🌱 Estou sempre buscando aprender novas tecnologias e transformar conhecimento em projetos práticos e Open Source. -->
 
