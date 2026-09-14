@@ -75,33 +75,33 @@ Backend Developer
 
 ---
 
-## 🎯 Áreas & Estudos
+## 🎯 Areas & Studies
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
 
-### 💡 Áreas de interesse
+### 💡 Areas of interest
 
-- Desenvolvimento Back-end
-- APIs REST
-- Banco de Dados
-- Arquitetura de Software
-- DevOps e Cloud
-- Automação de Testes
-- Boas práticas de desenvolvimento
+- Backend Development
+- REST APIs
+- Databases
+- Software Architecture
+- DevOps and Cloud
+- Test Automation
+- Development best practices
 
 </td>
 <td width="50%" valign="top">
 
-### 📌 Atualmente estudando
+### 📌 Currently studying
 
-- Arquitetura de Software
-- DevOps e CI/CD
+- Software Architecture
+- DevOps and CI/CD
 - Docker
 - GitHub Actions
 - Cloud Computing
-- Boas práticas para APIs
+- API best practices
 
 </td>
   </tr>
