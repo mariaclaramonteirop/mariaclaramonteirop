@@ -57,7 +57,7 @@ Backend Developer
 ```
 ---
 
-## 🛠️ Linguagens e Ferramentas
+## 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height="40"/>
